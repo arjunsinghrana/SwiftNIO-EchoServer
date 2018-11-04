@@ -1,3 +1,1 @@
-# EchoServer
-
-A description of this package.
+# SwiftNIO-EchoServer
